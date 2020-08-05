@@ -13,23 +13,18 @@ It is used to transfer data through different platforms with the help of rest ap
 
 **Api_Overview** _To shows all api urls._
 <hr>
-<br>
 ![api-overview](api_overview.png)
 **Task_List** _To shows all tasks api._
 <hr>
-<br>
 ![api-overview](task_list.png)
-**Task_Create** _To create task api.
+**Task_Create** _To create task api._
 <hr>
-<br>_
 ![api-overview](task_create.png)
 **Task_Update** _To update particular task api._
 <hr>
-<br>
 ![api-overview](task_update.png)
 **Api_Delete** _To delete particular api._
 <hr>
-<br>
 ![api-overview](task_delete.png)
 
 ## Code of api views
